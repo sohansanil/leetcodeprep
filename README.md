@@ -20,6 +20,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/sohansanil/leetcodeprep/tree/main/0009-palindrome-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Array
 | Problem Name | Difficulty |
