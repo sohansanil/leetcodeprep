@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0595-big-countries](https://github.com/sohansanil/leetcodeprep/tree/main/0595-big-countries/) | Easy |
 | [1148-article-views-i](https://github.com/sohansanil/leetcodeprep/tree/main/1148-article-views-i/) | Easy |
+| [1683-invalid-tweets](https://github.com/sohansanil/leetcodeprep/tree/main/1683-invalid-tweets/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
