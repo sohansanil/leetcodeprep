@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+| [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
@@ -33,6 +34,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0605-can-place-flowers](https://github.com/sohansanil/leetcodeprep/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohansanil/leetcodeprep/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Greedy
@@ -43,4 +45,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->
