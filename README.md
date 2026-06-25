@@ -13,11 +13,13 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/sohansanil/leetcodeprep/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+| [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/sohansanil/leetcodeprep/tree/main/1768-merge-strings-alternately/) | Easy |
 ## Math
