@@ -10,6 +10,7 @@
 | [1148-article-views-i](https://github.com/sohansanil/leetcodeprep/tree/main/1148-article-views-i/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/sohansanil/leetcodeprep/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sohansanil/leetcodeprep/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/sohansanil/leetcodeprep/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/sohansanil/leetcodeprep/tree/main/1683-invalid-tweets/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
