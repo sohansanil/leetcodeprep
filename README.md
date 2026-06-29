@@ -22,6 +22,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/sohansanil/leetcodeprep/tree/main/0443-string-compression/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sohansanil/leetcodeprep/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -49,6 +50,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/sohansanil/leetcodeprep/tree/main/0605-can-place-flowers/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohansanil/leetcodeprep/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -59,6 +61,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -71,4 +74,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 <!---LeetCode Topics End-->
