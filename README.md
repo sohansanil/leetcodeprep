@@ -19,6 +19,7 @@
 | ------- | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/sohansanil/leetcodeprep/tree/main/0443-string-compression/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sohansanil/leetcodeprep/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -28,6 +29,7 @@
 | [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/sohansanil/leetcodeprep/tree/main/0443-string-compression/) | Medium |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/sohansanil/leetcodeprep/tree/main/1768-merge-strings-alternately/) | Easy |
@@ -62,4 +64,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sohansanil/leetcodeprep/tree/main/0238-product-of-array-except-self/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
