@@ -60,6 +60,7 @@
 | [0605-can-place-flowers](https://github.com/sohansanil/leetcodeprep/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sohansanil/leetcodeprep/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/sohansanil/leetcodeprep/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/sohansanil/leetcodeprep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohansanil/leetcodeprep/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Greedy
@@ -68,6 +69,7 @@
 | [0011-container-with-most-water](https://github.com/sohansanil/leetcodeprep/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/sohansanil/leetcodeprep/tree/main/0605-can-place-flowers/) | Easy |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/sohansanil/leetcodeprep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -89,6 +91,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/sohansanil/leetcodeprep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
