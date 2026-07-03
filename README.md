@@ -64,6 +64,7 @@
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sohansanil/leetcodeprep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohansanil/leetcodeprep/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sohansanil/leetcodeprep/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,6 +77,7 @@
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2215-find-the-difference-of-two-arrays](https://github.com/sohansanil/leetcodeprep/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
