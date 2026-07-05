@@ -48,6 +48,7 @@
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/sohansanil/leetcodeprep/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/sohansanil/leetcodeprep/tree/main/1768-merge-strings-alternately/) | Easy |
+| [2390-removing-stars-from-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,4 +129,9 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2352-equal-row-and-column-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2390-removing-stars-from-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
