@@ -124,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/sohansanil/leetcodeprep/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sohansanil/leetcodeprep/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -201,6 +203,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/sohansanil/leetcodeprep/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sohansanil/leetcodeprep/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -213,5 +216,6 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0437-path-sum-iii](https://github.com/sohansanil/leetcodeprep/tree/main/0437-path-sum-iii/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/sohansanil/leetcodeprep/tree/main/0872-leaf-similar-trees/) | Easy |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
