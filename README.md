@@ -85,6 +85,7 @@
 | [0007-reverse-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sohansanil/leetcodeprep/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+| [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohansanil/leetcodeprep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 ## Array
@@ -140,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
+| [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -185,6 +187,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/sohansanil/leetcodeprep/tree/main/0206-reverse-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/sohansanil/leetcodeprep/tree/main/0394-decode-string/) | Medium |
+| [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -266,4 +269,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohansanil/leetcodeprep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
