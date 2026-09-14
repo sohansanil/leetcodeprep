@@ -105,6 +105,7 @@
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sohansanil/leetcodeprep/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sohansanil/leetcodeprep/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sohansanil/leetcodeprep/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohansanil/leetcodeprep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2215-find-the-difference-of-two-arrays](https://github.com/sohansanil/leetcodeprep/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/2352-equal-row-and-column-pairs/) | Medium |
