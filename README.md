@@ -100,6 +100,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/sohansanil/leetcodeprep/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sohansanil/leetcodeprep/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -130,6 +131,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
 | [1207-unique-number-of-occurrences](https://github.com/sohansanil/leetcodeprep/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/sohansanil/leetcodeprep/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/sohansanil/leetcodeprep/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -157,6 +159,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
+| [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sohansanil/leetcodeprep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/sohansanil/leetcodeprep/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -192,6 +195,7 @@
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/sohansanil/leetcodeprep/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
@@ -296,4 +300,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
