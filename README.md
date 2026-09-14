@@ -98,6 +98,7 @@
 | [0011-container-with-most-water](https://github.com/sohansanil/leetcodeprep/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0053-maximum-subarray](https://github.com/sohansanil/leetcodeprep/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/sohansanil/leetcodeprep/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
@@ -152,6 +153,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sohansanil/leetcodeprep/tree/main/0053-maximum-subarray/) | Medium |
 | [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/sohansanil/leetcodeprep/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -303,6 +305,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/sohansanil/leetcodeprep/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sohansanil/leetcodeprep/tree/main/0169-majority-element/) | Easy |
 ## Boyer–Moore Majority Vote Algorithm
 | Problem Name | Difficulty |
