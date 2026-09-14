@@ -97,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/sohansanil/leetcodeprep/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/sohansanil/leetcodeprep/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sohansanil/leetcodeprep/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0334-increasing-triplet-subsequence/) | Medium |
@@ -280,4 +281,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/sohansanil/leetcodeprep/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
