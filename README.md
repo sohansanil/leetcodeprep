@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sohansanil/leetcodeprep/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0334-increasing-triplet-subsequence/) | Medium |
+| [0485-max-consecutive-ones](https://github.com/sohansanil/leetcodeprep/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0605-can-place-flowers](https://github.com/sohansanil/leetcodeprep/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sohansanil/leetcodeprep/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0724-find-pivot-index](https://github.com/sohansanil/leetcodeprep/tree/main/0724-find-pivot-index/) | Easy |
