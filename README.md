@@ -54,6 +54,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sohansanil/leetcodeprep/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
 | [0125-valid-palindrome](https://github.com/sohansanil/leetcodeprep/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
@@ -97,6 +98,7 @@
 | [0011-container-with-most-water](https://github.com/sohansanil/leetcodeprep/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
 | [0136-single-number](https://github.com/sohansanil/leetcodeprep/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sohansanil/leetcodeprep/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -154,6 +156,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/sohansanil/leetcodeprep/tree/main/1005-maximize-sum-of-array-after-k-negations/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/sohansanil/leetcodeprep/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/sohansanil/leetcodeprep/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -285,4 +288,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/sohansanil/leetcodeprep/tree/main/0136-single-number/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/sohansanil/leetcodeprep/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
