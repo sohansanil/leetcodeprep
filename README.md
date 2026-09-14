@@ -56,6 +56,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/sohansanil/leetcodeprep/tree/main/0125-valid-palindrome/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0345-reverse-vowels-of-a-string](https://github.com/sohansanil/leetcodeprep/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/sohansanil/leetcodeprep/tree/main/0443-string-compression/) | Medium |
@@ -86,6 +87,7 @@
 | [0007-reverse-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/sohansanil/leetcodeprep/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/sohansanil/leetcodeprep/tree/main/0013-roman-to-integer/) | Easy |
+| [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/sohansanil/leetcodeprep/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/sohansanil/leetcodeprep/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/sohansanil/leetcodeprep/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
@@ -95,6 +97,7 @@
 | [0011-container-with-most-water](https://github.com/sohansanil/leetcodeprep/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/sohansanil/leetcodeprep/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sohansanil/leetcodeprep/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0189-rotate-array](https://github.com/sohansanil/leetcodeprep/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sohansanil/leetcodeprep/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/sohansanil/leetcodeprep/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0605-can-place-flowers](https://github.com/sohansanil/leetcodeprep/tree/main/0605-can-place-flowers/) | Easy |
